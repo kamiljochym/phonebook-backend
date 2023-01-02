@@ -1,7 +1,7 @@
 # Phonebook app
 
 Project built with React and SCSS showcasing the four CRUD (create/read/update/delete) operations.
-- Live Demo: [here](https://phonebook-app-13.herokuapp.com/)
+- Live Demo: [here](https://powerful-zipper.cyclic.app/)
 - front-end: https://github.com/kamiljochym/phonebook-frontend
 
 - Axios is used to fetch data from the backend
